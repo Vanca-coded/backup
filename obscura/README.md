@@ -1,3 +1,3 @@
-##sound
+## Sound
 
   [obscura](obscura.json)
