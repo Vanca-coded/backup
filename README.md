@@ -1,3 +1,3 @@
 # backup
 
-[obscura](obscura/README.md)
+[backup](obscura/README.md)
