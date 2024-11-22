@@ -1,0 +1,12 @@
+[
+{ "url":"obscura/AD01.wav","type":"audio","bank":"obscura","n":0},
+{ "url":"obscura/AD02.wav","type":"audio","bank":"obscura","n":1},
+{ "url":"obscura/AD03.wav","type":"audio","bank":"obscura","n":2},
+{ "url":"obscura/AD04.wav","type":"audio","bank":"obscura","n":3},
+{ "url":"obscura/AD05.wav","type":"audio","bank":"obscura","n":4},
+{ "url":"obscura/AD06.wav","type":"audio","bank":"obscura","n":5},
+{ "url":"obscura/AD07.wav","type":"audio","bank":"obscura","n":6},
+{ "url":"obscura/AD08.wav","type":"audio","bank":"obscura","n":7},
+{ "url":"obscura/AD09.wav","type":"audio","bank":"obscura","n":8},
+{ "url":"obscura/AD10.wav","type":"audio","bank":"obscura","n":9} 
+]
